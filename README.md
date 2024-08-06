@@ -4,6 +4,6 @@
   Projeto de Estilização
 </h1>
 <h2>Dev: Cássio Estevão</h2>
-<h3>última atualiazação 14:57 06/08/2024</h3>
+<h3>última atualização 16:37 06/08/2024</h3>
 <div>
 </div>
